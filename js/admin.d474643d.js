@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["admin"],{b614:function(n,e,o){"use strict";o.r(e);var t=function(){var n=this,e=n.$createElement,o=n._self._c||e;return o("div")},a=[],c=(o("a481"),o("cadf"),o("551c"),o("097d"),{name:"GodMode",mounted:function(){window.location.replace("https://netflexapp.no")}}),d=c,i=o("2877"),l=Object(i["a"])(d,t,a,!1,null,null,null);l.options.__file="GodMode.vue";e["default"]=l.exports}}]);
+//# sourceMappingURL=admin.d474643d.js.map
